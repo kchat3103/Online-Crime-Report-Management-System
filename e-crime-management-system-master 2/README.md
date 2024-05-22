@@ -63,15 +63,6 @@
 Supported on Xampp v5.6.36
 ```
 
-## Author
-
-👤 **Alok Raj**
-
-* Website: https://opendevs.in
-* Twitter: [@alok722](https://twitter.com/alok722)
-* Github: [@alok722](https://github.com/alok722)
-* LinkedIn: [@alok722](https://linkedin.com/in/alok722)
-
 ## 🗒 Future Plans
 
 - OTP verification can be added to authenticate the user.
@@ -80,17 +71,6 @@ Supported on Xampp v5.6.36
 - Chat Support Between Officers can be added.
 - Location of crime will be automatically detected just by pointing on the map.
 
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/alok722/E-Crime-Management-System/issues). 
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-## 📝 License
-
-Copyright © 2020 [Alok Raj](https://github.com/alok722).
 
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
